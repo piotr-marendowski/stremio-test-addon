@@ -1,0 +1,19 @@
+{
+    "meta": {
+            "id": "hiwrld_tt0147753",
+            "type": "series",
+            "name": "Captain Z-Ro",
+            "description": "From his secret laboratory, Captain Z-Ro and his associates use their time machine, the ZX-99, to learn from the past and plan for the future.",
+            "releaseInfo": "1955-1956",
+            "logo": "https://fanart.tv/fanart/tv/70358/hdtvlogo/captain-z-ro-530995d5e979d.png",
+            "imdbRating": 6.9,
+            "poster": "https://www.captain-z-ro.com/images/FLYER-PAGE-1_250.gif",
+            "background": "https://www.captain-z-ro.com/images/Captain-Z--R0_500.jpg",
+            "genres": ["Sci-Fi", "Children", "Educational"],
+            "runtime": "15 mins.",
+            "videos": [
+                { "season": 1, "episode": 1, "id": "hiwrld_tt0147753:1:1", "title": "Christopher Columbus", "released": "1955-12-18" },
+                { "season": 1, "episode": 2, "id": "hiwrld_tt0147753:1:2", "title": "Daniel Boone", "released": "1955-12-25" }
+            ]
+    }
+}
